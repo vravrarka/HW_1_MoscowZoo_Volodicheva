@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoscowZoo", "КПО_1\MoscowZoo.csproj", "{F5977F6E-DD8B-485C-AD2B-F6072E8ABA72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoscowZoo_Tests", "MoscowZoo_Tests\MoscowZoo_Tests.csproj", "{87A4F35E-B3ED-4C8F-BEA8-C8029F83B8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5977F6E-DD8B-485C-AD2B-F6072E8ABA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5977F6E-DD8B-485C-AD2B-F6072E8ABA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5977F6E-DD8B-485C-AD2B-F6072E8ABA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5977F6E-DD8B-485C-AD2B-F6072E8ABA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A4F35E-B3ED-4C8F-BEA8-C8029F83B8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A4F35E-B3ED-4C8F-BEA8-C8029F83B8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A4F35E-B3ED-4C8F-BEA8-C8029F83B8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A4F35E-B3ED-4C8F-BEA8-C8029F83B8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C976DAC3-ADC8-4D16-954B-1BC4E7318383}
+	EndGlobalSection
+EndGlobal
